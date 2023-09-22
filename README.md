@@ -5,3 +5,9 @@ In this study, a novel ensemble model was introduced, which effectively segmente
 # Workflow
 
 ![image](https://github.com/Adowan/Semantic-Segmentation-of-Coronary-Artery-Using-Ensembled-Lightweight-U-Net-and-DeepLabV3-/assets/64413677/09c73bc6-a355-4351-beef-030a9165756a)
+
+# Performance Graph
+![image](https://github.com/Adowan/Semantic-Segmentation-of-Coronary-Artery-Using-Ensembled-Lightweight-U-Net-and-DeepLabV3-/assets/64413677/25d3cd68-9c4d-4cbc-b6c2-e8056a5beb26)
+# Comparison with existing model
+
+![image](https://github.com/Adowan/Semantic-Segmentation-of-Coronary-Artery-Using-Ensembled-Lightweight-U-Net-and-DeepLabV3-/assets/64413677/8a3323d3-4e96-4544-8ad5-4729cb2354c0)
