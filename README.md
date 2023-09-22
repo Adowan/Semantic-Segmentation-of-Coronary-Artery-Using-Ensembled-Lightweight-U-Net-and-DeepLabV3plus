@@ -1,0 +1,2 @@
+# Semantic-Segmentation-of-Coronary-Artery-Using-Ensembled-Lightweight-U-Net-and-DeepLabV3-
+During the past decade, coronary heart disease has emerged as a significant health concern, and  various types of coronary artery diseases have been identified. To accurately assess the severity of  these diseases, researchers have turned to deep learning models for reliable segmentation of  important blood vessels. 
